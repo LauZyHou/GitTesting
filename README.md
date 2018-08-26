@@ -5,3 +5,4 @@
 ## Zephyr 3
 ## Zephyr 4 branch(zephyr)
 ## Lzh 在dev上修复bug-1234
+## Lzh1在dev上先做了提交,提交之前Lzh2就拿到了dev分支
